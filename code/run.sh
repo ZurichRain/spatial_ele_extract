@@ -1,0 +1,1 @@
+nohup python3 run_bert_base_2020.py > ./log/run_log/mylog_1.log 2>&1 & 

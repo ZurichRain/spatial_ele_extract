@@ -1,0 +1,9 @@
+{'f1': 0.8974358974358974, 'loss': 0.6652792555590471}
+              precision    recall  f1-score   support
+
+     no-link       0.00      0.00      0.00         8
+       olink       0.81      1.00      0.90        35
+
+    accuracy                           0.81        43
+   macro avg       0.41      0.50      0.45        43
+weighted avg       0.66      0.81      0.73        43
